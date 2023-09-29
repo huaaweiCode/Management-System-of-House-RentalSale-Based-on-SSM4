@@ -1,10 +1,6 @@
+
 # 基于SSM的房屋出租/出售管理系统
 
-## 获取方式
-
-关注公众号： **程序员王不二**，回复关键词  ： **租房4**，获取完整版源码
-
-![公众号](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
 
 ## 1、项目介绍
 
@@ -37,67 +33,61 @@
 
 ### 4.1 登录注册
 
-![登录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202212262351241.jpg)
+![登录](https://img-blog.csdnimg.cn/img_convert/31ffb7eb6afeee497b534095498ecc52.jpeg)
 
-![注册](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202212262351818.jpg)
+![注册](https://img-blog.csdnimg.cn/img_convert/424f20003cc61f6833a2494b238edfc5.jpeg)
 
 ### 4.2 前端模块
 
-![首页](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202212262351626.jpg)
+![首页](https://img-blog.csdnimg.cn/img_convert/8579ce307c4d4050f3fd27a180e374b1.jpeg)
 
-![房屋出售列表](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202212262351711.jpg)
+![房屋出售列表](https://img-blog.csdnimg.cn/img_convert/2c05bfe76a713bae6b9e9b6655889e71.jpeg)
 
-![房屋出售详情](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202212262351942.jpg)
+![房屋出售详情](https://img-blog.csdnimg.cn/img_convert/5e89fb6579d1d6bfe3532f6520d557df.jpeg)
 
-![房屋出租信息](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202212262352859.jpg)
+![房屋出租信息](https://img-blog.csdnimg.cn/img_convert/5b33ede47c47051c1435547240bbb975.jpeg)
 
 ### 4.3用户模块
 
-![用户-订购记录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202212262352680.jpg)
+![用户-订购记录](https://img-blog.csdnimg.cn/img_convert/ac466ca6bba33a6cc835ab9b6e8dd9fe.jpeg)
 
-![用户-预约看房记录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202212262352265.jpg)
+![用户-预约看房记录](https://img-blog.csdnimg.cn/img_convert/134404118ceaf4872fe1f37442014c25.jpeg)
 
-![用户-留言](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202212262352475.jpg)
+![用户-留言](https://img-blog.csdnimg.cn/img_convert/fec3b9c037feae0c25ef1b368fe653bb.jpeg)
 
-![用户-预约看房](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202212262352370.jpg)
+![用户-预约看房](https://img-blog.csdnimg.cn/img_convert/6f5b0c0858d979c5480d33544826032a.jpeg)
 
-![用户-订房](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202212262352598.jpg)
+![用户-订房](https://img-blog.csdnimg.cn/img_convert/b60d4a6fcd3495fc42c4e6c26debde50.jpeg)
 
 ### 4.4中介 模块
 
-![中介-添加房屋](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202212262352478.jpg)
+![中介-添加房屋](https://img-blog.csdnimg.cn/img_convert/9959f4a13eee7990c6ed7b4a0636b2ef.jpeg)
 
-![中介-添加租房信息](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202212262352600.jpg)
+![中介-添加租房信息](https://img-blog.csdnimg.cn/img_convert/18957afae1a1c5d8a97c019ea2accc85.jpeg)
 
-![中介-预约看房管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202212262352696.jpg)
+![中介-预约看房管理](https://img-blog.csdnimg.cn/img_convert/0aa619931772a87aea35a4921d7dbf94.jpeg)
 
 ### 4.4管理员模块
 
-![管理员-房屋区域管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202212262352649.jpg)
+![管理员-房屋区域管理](https://img-blog.csdnimg.cn/img_convert/759ae7cf55631d8e482b462940439946.jpeg)
 
-![管理员-房屋出售信息管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202212262352107.jpg)
+![管理员-房屋出售信息管理](https://img-blog.csdnimg.cn/img_convert/228b5917f13226607171fa140e9f3877.jpeg)
 
-![管理员-房屋出租管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202212262352689.jpg)
+![管理员-房屋出租管理](https://img-blog.csdnimg.cn/img_convert/74cda8820ebe28b8ccd8aa3279cb31a2.jpeg)
 
-![管理员-留言管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202212262352787.jpg)
+![管理员-留言管理](https://img-blog.csdnimg.cn/img_convert/bc09b2d9bbad3270195d700278648046.jpeg)
 
-![管理员-公告管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202212262352933.jpg)
+![管理员-公告管理](https://img-blog.csdnimg.cn/img_convert/79f00ea6636333e32ec1a16539de3f57.jpeg)
 
-![管理员-中介管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202212262352506.jpg)
+![管理员-中介管理](https://img-blog.csdnimg.cn/img_convert/016277e7d74f3dcfe2c9fcc2df5bf282.jpeg)
 
 ### 4.5文档目录
 
-![文档目录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202212271921708.jpg)
-
-## 5、视频演示
-
-[点击播放视频，视频位于文章最后](输入链接)
-
-## 6、获取方式
-
-关注公众号： **程序员王不二**，回复关键词  ： **租房4**，获取完整版源码
+![文档目录](https://img-blog.csdnimg.cn/img_convert/21774c6156c2929201f23fedeb1db626.jpeg)
 
 
+### 获取方式&视频演示
 
-![公众号](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
+下方扫一下，回复关键词：租房
 
+![gitee](https://img-blog.csdnimg.cn/img_convert/7e242a95d4a33fe3d730535ec31b380b.png)
